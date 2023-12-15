@@ -3,4 +3,4 @@ Repository containing personal data wrangling, EDA, SQL, ML (Regression, Classif
 
 Through Excel, SQLite, Jupyter Notebook.
 
-Using python pandas, numpy, matplotlin, seaborn, scikit-learn, SQL.
+Using python pandas, numpy, matplotlib, seaborn, scikit-learn, SQL.
