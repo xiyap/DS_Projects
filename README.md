@@ -1,5 +1,5 @@
 # DS_Projects
-Repository containing personal data wrangling, EDA, SQL, ML projects.
+Repository containing personal data wrangling, EDA, SQL, ML (Regression, Classification, Clustering) projects.
 
 Through Excel, SQLite, Jupyter Notebook.
 
